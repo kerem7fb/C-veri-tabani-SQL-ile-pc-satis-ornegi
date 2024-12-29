@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\Hazır Sistem Pc\Hazır Sistem Pc\bin\Debug\Hazır Sistem Pc.exe.config
+C:\Users\user\Desktop\10-M\Hazır Sistem Pc\Hazır Sistem Pc\bin\Debug\Hazır Sistem Pc.exe
+C:\Users\user\Desktop\10-M\Hazır Sistem Pc\Hazır Sistem Pc\bin\Debug\Hazır Sistem Pc.pdb
+C:\Users\user\Desktop\10-M\Hazır Sistem Pc\Hazır Sistem Pc\obj\Debug\Hazır Sistem Pc.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\Hazır Sistem Pc\Hazır Sistem Pc\obj\Debug\Hazır_Sistem_Pc.Form1.resources
+C:\Users\user\Desktop\10-M\Hazır Sistem Pc\Hazır Sistem Pc\obj\Debug\Hazır_Sistem_Pc.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Hazır Sistem Pc\Hazır Sistem Pc\obj\Debug\Hazır Sistem Pc.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\Hazır Sistem Pc\Hazır Sistem Pc\obj\Debug\Hazır Sistem Pc.exe
+C:\Users\user\Desktop\10-M\Hazır Sistem Pc\Hazır Sistem Pc\obj\Debug\Hazır Sistem Pc.pdb
